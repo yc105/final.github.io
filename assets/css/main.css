@@ -580,7 +580,7 @@ section,
   padding: 0;
 }
 
-.about.col-lg-6 {
+.about.col-lg-6 li {
   line-height: 50px;
   margin-bottom: 20px;
 }
